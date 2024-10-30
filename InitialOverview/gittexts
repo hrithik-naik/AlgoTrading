@@ -1,0 +1,13 @@
+git status
+git init
+git add .
+git commit -m "fk GEMINI API KEY"
+git remote add origin https://github.com/hrithik-naik/AlgoTrading.git
+git reset
+git status
+git push -u origin main
+git pull origin main
+git status
+git add .
+git commit -m "Fixing File Structure"
+git push -u origin main

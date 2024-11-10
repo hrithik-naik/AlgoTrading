@@ -1,0 +1,123 @@
+{
+    "Industry Demand": [
+        {
+            "question": "What are the growth trends in the Indian software development market and how are these trends likely to impact Aris International Ltd's revenue?"
+        },
+        {
+            "question": "Who are the main competitors of Aris International Ltd in the software development, real estate, and auto parts & equipment industries?"
+        },
+        {
+            "question": "How is the demand for import & export of merchandise, software development, real estate, and auto parts & equipment impacting Aris International Ltd's valuation?"
+        }
+    ],
+    "Market Size": [
+        {
+            "question": "How large is the market for software development services in India and how does Aris International Ltd's market share compare to its competitors?"
+        },
+        {
+            "question": "What is the total addressable market for Aris International Ltd's combined operations across software development, real estate, and auto parts & equipment?"
+        },
+        {
+            "question": "What are the key factors that will determine the future growth potential of Aris International Ltd's markets?"
+        }
+    ],
+    "Stage of Development": [
+        {
+            "question": "Compared to similar companies in its industries, where is Aris International Ltd in its life cycle and how does this affect its valuation?"
+        },
+        {
+            "question": "Is Aris International Ltd currently experiencing rapid growth or has its growth stabilized and how does this stage impact its valuation compared to similar companies?"
+        },
+        {
+            "question": "Does Aris International Ltd have a track record of profitable operations or is it still focused on achieving profitability and how does this affect investor interest and valuation?"
+        }
+    ],
+    "Traction": [
+        {
+            "question": "How has Aris International Ltd's revenue and profit grown in recent years and how does this growth trajectory compare to its industry peers?"
+        },
+        {
+            "question": "How is Aris International Ltd's customer acquisition and retention impacting its market adoption and overall traction?"
+        },
+        {
+            "question": "What is the evidence of market adoption for Aris International Ltd's services across its three core business lines?"
+        }
+    ],
+    "Talent Potential": [
+        {
+            "question": "What is the leadership team's track record of success in driving growth and profitability for Aris International Ltd?"
+        },
+        {
+            "question": "How does Aris International Ltd attract and retain top talent in a competitive market?"
+        },
+        {
+            "question": "How does the strength of Aris International Ltd's talent pool impact its future potential for innovation and growth?"
+        }
+    ],
+    "Future Financing": [
+        {
+            "question": "What is Aris International Ltd's current debt-to-equity ratio and how does this impact its future financing options?"
+        },
+        {
+            "question": "How much cash flow does Aris International Ltd generate from its operations and how does this affect its capital raising needs?"
+        },
+        {
+            "question": "Does Aris International Ltd have any plans for future fundraising activities and if so, what is their anticipated impact on the company's valuation?"
+        }
+    ],
+    "Unit Economics": [
+        {
+            "question": "What is Aris International Ltd's gross margin across its different business segments and how is it expected to evolve over time?"
+        },
+        {
+            "question": "What are Aris International Ltd's major operating expenses and how is it controlling these expenses to improve profitability?"
+        },
+        {
+            "question": "What are the key metrics to watch that will indicate the long-term sustainability of Aris International Ltd's unit economics?"
+        }
+    ],
+    "Comparable Companies": [
+        {
+            "question": "How does Aris International Ltd's valuation, including P/E ratio and market capitalization, compare to publicly traded competitors in its various industries?"
+        },
+        {
+            "question": "Have any similar companies to Aris International Ltd experienced recent exits through acquisitions or IPOs and if so, what were the key terms of these deals?"
+        },
+        {
+            "question": "How does Aris International Ltd's revenue growth, profit margin, and market share compare to its closest comparable companies?"
+        }
+    ],
+    "General Economy": [
+        {
+            "question": "How are rising inflation and interest rates impacting Aris International Ltd's cost structure and overall business performance?"
+        },
+        {
+            "question": "What is the anticipated impact of global economic uncertainties on the demand for Aris International Ltd's products and services?"
+        },
+        {
+            "question": "How does Aris International Ltd's geographic market diversification affect its vulnerability to macroeconomic risks?"
+        }
+    ],
+    "Investor Demand": [
+        {
+            "question": "What has been the recent stock performance of Aris International Ltd and what is the current sentiment among investors?"
+        },
+        {
+            "question": "What are the main drivers of investor interest in Aris International Ltd's stock and how is this likely to affect its valuation?"
+        },
+        {
+            "question": "What are the key concerns of investors regarding Aris International Ltd's future prospects and how might these concerns impact its valuation?"
+        }
+    ],
+    "Urgency": [
+        {
+            "question": "Does Aris International Ltd have a pressing need for immediate capital and how does this urgency impact its negotiating position with potential investors?"
+        },
+        {
+            "question": "What are the consequences of not securing the desired capital in a timely manner for Aris International Ltd's business plans and valuation?"
+        },
+        {
+            "question": "How is Aris International Ltd's urgency for funding likely to affect the terms and conditions of any potential financing deal?"
+        }
+    ]
+}

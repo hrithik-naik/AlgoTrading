@@ -3,4 +3,5 @@
 + Leader(Analyse quarterly Data)
 + Baby(Market Overview)
 + plzzzkillme(Initial stock overview) nearly 75 percent done 
++ DeepReinforcmentLearning Model Ready which doing good with testdata 
 
